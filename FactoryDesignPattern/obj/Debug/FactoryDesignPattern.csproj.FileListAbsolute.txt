@@ -1,0 +1,8 @@
+C:\Users\SOFUOGLU\Documents\GitHub\DesignPatterns\FactoryDesignPattern\bin\Debug\FactoryDesignPattern.exe.config
+C:\Users\SOFUOGLU\Documents\GitHub\DesignPatterns\FactoryDesignPattern\bin\Debug\FactoryDesignPattern.exe
+C:\Users\SOFUOGLU\Documents\GitHub\DesignPatterns\FactoryDesignPattern\bin\Debug\FactoryDesignPattern.pdb
+C:\Users\SOFUOGLU\Documents\GitHub\DesignPatterns\FactoryDesignPattern\obj\Debug\FactoryDesignPattern.csproj.AssemblyReference.cache
+C:\Users\SOFUOGLU\Documents\GitHub\DesignPatterns\FactoryDesignPattern\obj\Debug\FactoryDesignPattern.csproj.SuggestedBindingRedirects.cache
+C:\Users\SOFUOGLU\Documents\GitHub\DesignPatterns\FactoryDesignPattern\obj\Debug\FactoryDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\SOFUOGLU\Documents\GitHub\DesignPatterns\FactoryDesignPattern\obj\Debug\FactoryDesignPattern.exe
+C:\Users\SOFUOGLU\Documents\GitHub\DesignPatterns\FactoryDesignPattern\obj\Debug\FactoryDesignPattern.pdb
