@@ -14,6 +14,8 @@ namespace ThreadSafeSingletonDesignPattern
         class CustomerManager
         {
             private static CustomerManager _customerManager;
+            static object _lockObject = new object();
+
             private CustomerManager()
             {
 
@@ -21,7 +23,14 @@ namespace ThreadSafeSingletonDesignPattern
 
             public static CustomerManager CreateAsSingleton()
             {
-                return _customerManager ?? (_customerManager = new CustomerManager());
+                lock (_lockObject)
+                {
+                    if (_customerManager == null)
+                    {
+                        _customerManager = new CustomerManager();
+                    }
+                }
+                return _customerManager;
             }
 
             public void Save()
