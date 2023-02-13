@@ -1,0 +1,15 @@
+C:\Users\SOFUOGLU\Documents\GitHub\DesignPatterns\ThreadSafeSingletonDesignPattern\bin\Debug\net6.0\ThreadSafeSingletonDesignPattern.exe
+C:\Users\SOFUOGLU\Documents\GitHub\DesignPatterns\ThreadSafeSingletonDesignPattern\bin\Debug\net6.0\ThreadSafeSingletonDesignPattern.deps.json
+C:\Users\SOFUOGLU\Documents\GitHub\DesignPatterns\ThreadSafeSingletonDesignPattern\bin\Debug\net6.0\ThreadSafeSingletonDesignPattern.runtimeconfig.json
+C:\Users\SOFUOGLU\Documents\GitHub\DesignPatterns\ThreadSafeSingletonDesignPattern\bin\Debug\net6.0\ThreadSafeSingletonDesignPattern.dll
+C:\Users\SOFUOGLU\Documents\GitHub\DesignPatterns\ThreadSafeSingletonDesignPattern\bin\Debug\net6.0\ThreadSafeSingletonDesignPattern.pdb
+C:\Users\SOFUOGLU\Documents\GitHub\DesignPatterns\ThreadSafeSingletonDesignPattern\obj\Debug\net6.0\ThreadSafeSingletonDesignPattern.csproj.AssemblyReference.cache
+C:\Users\SOFUOGLU\Documents\GitHub\DesignPatterns\ThreadSafeSingletonDesignPattern\obj\Debug\net6.0\ThreadSafeSingletonDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SOFUOGLU\Documents\GitHub\DesignPatterns\ThreadSafeSingletonDesignPattern\obj\Debug\net6.0\ThreadSafeSingletonDesignPattern.AssemblyInfoInputs.cache
+C:\Users\SOFUOGLU\Documents\GitHub\DesignPatterns\ThreadSafeSingletonDesignPattern\obj\Debug\net6.0\ThreadSafeSingletonDesignPattern.AssemblyInfo.cs
+C:\Users\SOFUOGLU\Documents\GitHub\DesignPatterns\ThreadSafeSingletonDesignPattern\obj\Debug\net6.0\ThreadSafeSingletonDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\SOFUOGLU\Documents\GitHub\DesignPatterns\ThreadSafeSingletonDesignPattern\obj\Debug\net6.0\ThreadSafeSingletonDesignPattern.dll
+C:\Users\SOFUOGLU\Documents\GitHub\DesignPatterns\ThreadSafeSingletonDesignPattern\obj\Debug\net6.0\refint\ThreadSafeSingletonDesignPattern.dll
+C:\Users\SOFUOGLU\Documents\GitHub\DesignPatterns\ThreadSafeSingletonDesignPattern\obj\Debug\net6.0\ThreadSafeSingletonDesignPattern.pdb
+C:\Users\SOFUOGLU\Documents\GitHub\DesignPatterns\ThreadSafeSingletonDesignPattern\obj\Debug\net6.0\ThreadSafeSingletonDesignPattern.genruntimeconfig.cache
+C:\Users\SOFUOGLU\Documents\GitHub\DesignPatterns\ThreadSafeSingletonDesignPattern\obj\Debug\net6.0\ref\ThreadSafeSingletonDesignPattern.dll

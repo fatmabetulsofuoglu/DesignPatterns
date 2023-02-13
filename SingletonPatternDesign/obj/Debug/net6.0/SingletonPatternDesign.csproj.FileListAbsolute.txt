@@ -1,0 +1,15 @@
+C:\Users\SOFUOGLU\Documents\GitHub\DesignPatterns\SingletonPatternDesign\bin\Debug\net6.0\SingletonPatternDesign.exe
+C:\Users\SOFUOGLU\Documents\GitHub\DesignPatterns\SingletonPatternDesign\bin\Debug\net6.0\SingletonPatternDesign.deps.json
+C:\Users\SOFUOGLU\Documents\GitHub\DesignPatterns\SingletonPatternDesign\bin\Debug\net6.0\SingletonPatternDesign.runtimeconfig.json
+C:\Users\SOFUOGLU\Documents\GitHub\DesignPatterns\SingletonPatternDesign\bin\Debug\net6.0\SingletonPatternDesign.dll
+C:\Users\SOFUOGLU\Documents\GitHub\DesignPatterns\SingletonPatternDesign\bin\Debug\net6.0\SingletonPatternDesign.pdb
+C:\Users\SOFUOGLU\Documents\GitHub\DesignPatterns\SingletonPatternDesign\obj\Debug\net6.0\SingletonPatternDesign.csproj.AssemblyReference.cache
+C:\Users\SOFUOGLU\Documents\GitHub\DesignPatterns\SingletonPatternDesign\obj\Debug\net6.0\SingletonPatternDesign.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SOFUOGLU\Documents\GitHub\DesignPatterns\SingletonPatternDesign\obj\Debug\net6.0\SingletonPatternDesign.AssemblyInfoInputs.cache
+C:\Users\SOFUOGLU\Documents\GitHub\DesignPatterns\SingletonPatternDesign\obj\Debug\net6.0\SingletonPatternDesign.AssemblyInfo.cs
+C:\Users\SOFUOGLU\Documents\GitHub\DesignPatterns\SingletonPatternDesign\obj\Debug\net6.0\SingletonPatternDesign.csproj.CoreCompileInputs.cache
+C:\Users\SOFUOGLU\Documents\GitHub\DesignPatterns\SingletonPatternDesign\obj\Debug\net6.0\SingletonPatternDesign.dll
+C:\Users\SOFUOGLU\Documents\GitHub\DesignPatterns\SingletonPatternDesign\obj\Debug\net6.0\refint\SingletonPatternDesign.dll
+C:\Users\SOFUOGLU\Documents\GitHub\DesignPatterns\SingletonPatternDesign\obj\Debug\net6.0\SingletonPatternDesign.pdb
+C:\Users\SOFUOGLU\Documents\GitHub\DesignPatterns\SingletonPatternDesign\obj\Debug\net6.0\SingletonPatternDesign.genruntimeconfig.cache
+C:\Users\SOFUOGLU\Documents\GitHub\DesignPatterns\SingletonPatternDesign\obj\Debug\net6.0\ref\SingletonPatternDesign.dll
