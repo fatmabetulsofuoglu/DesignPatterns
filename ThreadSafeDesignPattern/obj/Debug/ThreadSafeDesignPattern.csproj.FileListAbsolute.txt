@@ -1,8 +1,0 @@
-C:\Users\SOFUOGLU\Documents\GitHub\DesignPatterns\ThreadSafeDesignPattern\bin\Debug\ThreadSafeDesignPattern.exe.config
-C:\Users\SOFUOGLU\Documents\GitHub\DesignPatterns\ThreadSafeDesignPattern\bin\Debug\ThreadSafeDesignPattern.exe
-C:\Users\SOFUOGLU\Documents\GitHub\DesignPatterns\ThreadSafeDesignPattern\bin\Debug\ThreadSafeDesignPattern.pdb
-C:\Users\SOFUOGLU\Documents\GitHub\DesignPatterns\ThreadSafeDesignPattern\obj\Debug\ThreadSafeDesignPattern.csproj.AssemblyReference.cache
-C:\Users\SOFUOGLU\Documents\GitHub\DesignPatterns\ThreadSafeDesignPattern\obj\Debug\ThreadSafeDesignPattern.csproj.SuggestedBindingRedirects.cache
-C:\Users\SOFUOGLU\Documents\GitHub\DesignPatterns\ThreadSafeDesignPattern\obj\Debug\ThreadSafeDesignPattern.csproj.CoreCompileInputs.cache
-C:\Users\SOFUOGLU\Documents\GitHub\DesignPatterns\ThreadSafeDesignPattern\obj\Debug\ThreadSafeDesignPattern.exe
-C:\Users\SOFUOGLU\Documents\GitHub\DesignPatterns\ThreadSafeDesignPattern\obj\Debug\ThreadSafeDesignPattern.pdb
